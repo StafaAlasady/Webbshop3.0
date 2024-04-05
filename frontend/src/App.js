@@ -1,5 +1,5 @@
 
-import './App.css';
+require('./App.css');
 import { Navbar } from './Components/TopNavbar/Navbar';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import { Product } from './Pages/Product';
